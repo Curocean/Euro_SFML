@@ -4,6 +4,7 @@
 int main()
 {
     //:(
+    // Euro ooooooooooooooooo
     sf::RenderWindow window(sf::VideoMode(400, 400), "Tree Drawing");
 
     sf::RectangleShape trunk(sf::Vector2f(30.f, 100.f));
